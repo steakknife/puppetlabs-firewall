@@ -1,6 +1,6 @@
 name 'puppetlabs-firewall'
 version '0.0.4'
-source 'git://github.com/puppetlabs/puppetlabs-firewall.git'
+source 'git://github.com/steakknife/puppetlabs-firewall.git'
 author 'puppetlabs'
 license 'ASL 2.0'
 summary 'Firewall Module'
